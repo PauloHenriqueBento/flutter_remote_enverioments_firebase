@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566935118548",
+    "project_id": "learn-remote-conf",
+    "storage_bucket": "learn-remote-conf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566935118548:android:ad21289d711a1d67e31141",
+        "android_client_info": {
+          "package_name": "com.example.flutter_remote_enverioments_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566935118548-9d02nmtb66tdjh537hhoued3sr6ghbv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjmuNgwzRFvRNsWCMloh9hQ9M9-kZYAog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566935118548-9d02nmtb66tdjh537hhoued3sr6ghbv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
