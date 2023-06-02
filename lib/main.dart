@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_remote_enverioments_firebase/home_screen.dart';
 import 'package:firebase_remote_config/firebase_remote_config.dart';
 import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter_remote_enverioments_firebase/sing_up.dart';
+
+import 'login_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -16,8 +19,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Teste Firebase Remote Conf.',
-      home: HomeScreen(),
+      home: SingUp(),
     );
   }
 }
